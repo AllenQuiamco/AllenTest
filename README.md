@@ -4,5 +4,4 @@ Hello, Allen!
 
 Ako si AlAAAxx
 
-
-x=13
+X=10
