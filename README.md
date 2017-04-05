@@ -1,7 +1,7 @@
 # AllenTest
 
-Hello, Allen!
+//Hello, Allen!
 
-Ako si AlAAAxx
+//Ako si AlAAAxx
 
-X=10
+int x = 10; // Hello, Allen!
